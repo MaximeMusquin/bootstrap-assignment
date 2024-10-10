@@ -1,0 +1,21 @@
+.hero-section {
+    background-image: url('ph1.webp'); /* Replace with your image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-section h1 {
+    color: white;
+    text-shadow: 2px 2px black;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.product-card img {
+    height: 300px;
+    object-fit: cover;
+}
